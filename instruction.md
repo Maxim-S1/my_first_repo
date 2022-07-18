@@ -16,3 +16,6 @@
 * List three
 
 ## Картинки
+
+Это дворец
+![Palace](Palace.JPG)
