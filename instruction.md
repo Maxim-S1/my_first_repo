@@ -14,3 +14,9 @@
 * List one
 * List two
 * List three
+
+## Картинки
+
+Это дворец
+
+![Palace](Palace.JPG)
